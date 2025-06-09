@@ -6,4 +6,4 @@
 - 🐣 Building in public and documenting my journey
 - 🐦 Follow me on [Twitter](https://twitter.com/shashwatsinghcs)
 
-> "From zero to something. One step at a time."
+> "From zero to something. One step at a time. "
